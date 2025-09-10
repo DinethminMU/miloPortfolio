@@ -3,7 +3,7 @@ function Projects(){
         <>
         <div id= "projects" className="flex flex-col items-center  bg-white hover:cursor-default">
         <h1 className=" text-black md:text-5xl text-4xl mb-4 pt-8 font-serif">Projects</h1><br/>
-        <div className="text-black flex justify-between max-w-[1240px] mx-auto mt-4 gap-x-2 gap-y-20 flex-wrap ">
+        <div className="text-black flex justify-between max-w-full md:max-w-[1240px] mx-auto mt-4 gap-x-2 gap-y-20 flex-wrap ">
         
         <div className="font-serif border rounded-md p-4 lg:w-1/4 md:w-1/2 bg-white/20 backdrop-blur-md border-white/30 shadow-lg hover:scale-105 duration-75 hover:shadow-black cursor-pointer">
             <h1 className="text-2xl text-center">Advanced Nap Scheduling System</h1><br/>

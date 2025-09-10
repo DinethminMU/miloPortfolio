@@ -22,7 +22,7 @@ function About(){
       </div>
 
         
-        <div id = "about" className= "text-white flex-col px-4 mx-auto py-7  max-w-[1240px] justify-between">
+        <div id = "about" className= "text-white flex-col px-4 mx-auto py-7 max-w-full md:max-w-[1240px] justify-between">
             
             <div className="text-center flex flex-col items-center" >
                 
