@@ -11,7 +11,7 @@ A fun, responsive portfolio for **Milo the Cat**! Built with **React**, **Vite**
 - **Centered Layout**: Image and text are perfectly centered on all screen sizes.
 - **Tailwind Styling**: Uses Tailwind CSS utilities for colors, spacing, and typography.
 - **Reusable React Components**: Components like `AboutMe` are modular and easy to maintain.
-- **Interactive Elements** *(optional)*: Buttons or hover effects for added fun.
+- **Interactive Elements**: Buttons or hover effects for added fun.
 
 ---
 
@@ -39,6 +39,9 @@ my-cat-portfolio/
 ├─ tailwind.config.js
 └─ vite.config.js
 ```
+## 🚀 Live Demo
+
+Check out Milo’s portfolio online: [https://milo-portfolio-smoky.vercel.app/]
 
 
 
