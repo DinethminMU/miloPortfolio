@@ -9,7 +9,7 @@ function NavBar(){
 
              
  
-            <h1  className="text-2xl md:text-5xl text-amber-600 font-bold italic" style={{fontFamily: "cursive"}}>MILO</h1>
+            <h1  className="text-3xl md:text-5xl text-amber-600 font-bold italic" style={{fontFamily: "cursive"}}>MILO</h1>
             
             <ul className="flex w-[200px] justify-end gap-2 md:gap-0">
                 <a href= "#home"><li  className="md:p-4 p-1 hover:scale-120 duration-75 hover:bg-white/30 rounded-xl hover:cursor-pointer">Home</li></a>

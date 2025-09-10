@@ -1,4 +1,4 @@
-import Milo from "../assets/milo.jpeg";
+import Milo from "/milo.jpeg";
 import { ReactTyped } from "react-typed";
 import Particles from './Particles.jsx';
 
@@ -26,7 +26,7 @@ function About(){
             
             <div className="text-center flex flex-col items-center" >
                 
-                <img src={Milo} alt="Photo" className="w-[200px] h-[200px] rounded-full border-4 hover:scale-110 duration-75 cursor-pointer"></img>
+                <img loading= "lazy" src={Milo} alt="Photo" className="w-[200px] h-[200px] rounded-full border-4 hover:scale-110 duration-75 cursor-pointer"></img>
                 <div className="flex items-center mb-4 mt-4 bg-black ">
                     <h1  className="md:text-5xl text-4xl font-serif py-4">About</h1>
                 <ReactTyped className="md:text-5xl md:px-4 text-4xl font-serif py-4 px-3" strings={["Meow","Meow","Meow"]} typeSpeed={100} backSpeed={50} loop></ReactTyped>
