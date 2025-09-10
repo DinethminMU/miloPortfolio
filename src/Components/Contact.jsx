@@ -1,6 +1,6 @@
 import Particles from "./Particles";
 function Contact(){
-    return(<div className="relative w-full overflow-x-hidden">
+    return(<div className="relative w-full overflow-x-hidden py-4">
 
         <div className="absolute inset-0 -z-10">
         <Particles
