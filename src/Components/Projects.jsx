@@ -1,7 +1,7 @@
 function Projects(){
     return(
         <>
-        <div id= "projects" className="flex flex-col items-center  bg-white hover:cursor-default">
+        <div id= "projects" className="flex flex-col items-center  bg-white hover:cursor-default overflow-x-hidden">
         <h1 className=" text-black md:text-5xl text-4xl mb-4 pt-8 font-serif">Projects</h1><br/>
         <div className="text-black flex justify-between max-w-full md:max-w-[1240px] mx-auto mt-4 gap-x-2 gap-y-20 flex-wrap ">
         

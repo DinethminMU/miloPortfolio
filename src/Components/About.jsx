@@ -6,7 +6,7 @@ function About(){
 
     return(
         <>
-        <div className="relative w-full h-full">
+        <div className="relative w-full h-full overflow-x-hidden">
         {/* Background Particles */}
         <div className="absolute inset-0 -z-10">
         <Particles

@@ -4,7 +4,7 @@ function NavBar(){
     return(
        
         
-        <div id= "home" className="flex justify-between px-4 max-w-[1240px] mx-auto text-white items-center my-4 font-serif ">
+        <div id= "home" className="flex justify-between px-4 max-w-full md:max-w-[1240px] mx-auto text-white items-center my-4 font-serif overflow-x-hidden">
             
 
              

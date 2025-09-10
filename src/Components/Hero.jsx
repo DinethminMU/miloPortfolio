@@ -22,7 +22,7 @@ const handlePicBack = () => {
     }
 }
 
-    return(<div className="flex w-full mx-auto  justify-center bg-white gap-4 py-8">
+    return(<div className="flex w-full mx-auto  justify-center bg-white gap-4 py-8 overflow-x-hidden">
         <div className="flex items-center gap-8">
 
             <SlArrowLeft onClick = {handlePicBack} className={`rounded-full my-auto size-10 hover:scale-125 duration-75 cursor-pointer ${

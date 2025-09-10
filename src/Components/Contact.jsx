@@ -1,6 +1,6 @@
 import Particles from "./Particles";
 function Contact(){
-    return(<div className="relative w-full">
+    return(<div className="relative w-full overflow-x-hidden">
 
         <div className="absolute inset-0 -z-10">
         <Particles
@@ -16,7 +16,7 @@ function Contact(){
       </div>
 
         
-        <div id = "contact" className="text-white flex flex-col justify-between max-w-[1240px] mx-auto font-serif pt-8">
+        <div id = "contact" className="text-white flex flex-col justify-between max-w-full md:max-w-[1240px] mx-auto font-serif pt-8">
             
         <h2 className="text-white text-3xl mb-8 pl-4 md:pl-0">Contact Meow!!!</h2>
         
