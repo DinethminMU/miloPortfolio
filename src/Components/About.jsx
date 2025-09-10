@@ -32,7 +32,7 @@ function About(){
                 <ReactTyped className="md:text-5xl md:px-4 text-4xl font-serif py-4 px-3" strings={["Meow","Meow","Meow"]} typeSpeed={100} backSpeed={50} loop></ReactTyped>
                 </div>
                 
-                <p className="text-left font-serif bg-black">Hello, my name is Milo, and I’m a cat with a personality as unique as my whiskers. My days are filled with a balance of exploration, naps, and the occasional chase after invisible prey. I take pride in my sleek appearance and graceful movements, but I’m equally known for my gentle purrs that bring comfort to those around me. While I value independence, I enjoy companionship and will happily share my warmth when you need it most. Whether I’m basking in the sunlight or watching the world with curious eyes, I live each day with elegance and quiet confidence.</p>
+                <p className="md:text-left font-serif bg-black text-center">Hello, my name is Milo, and I’m a cat with a personality as unique as my whiskers. My days are filled with a balance of exploration, naps, and the occasional chase after invisible prey. I take pride in my sleek appearance and graceful movements, but I’m equally known for my gentle purrs that bring comfort to those around me. While I value independence, I enjoy companionship and will happily share my warmth when you need it most. Whether I’m basking in the sunlight or watching the world with curious eyes, I live each day with elegance and quiet confidence.</p>
                
             </div>
         </div>
