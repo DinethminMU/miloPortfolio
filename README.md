@@ -32,7 +32,6 @@ my-cat-portfolio/
 │ └─ milo.png # Cat profile image
 ├─ src/
 │ ├─ Components/
-│ │ └─ AboutMe.jsx # About Me component
 │ ├─ App.jsx
 │ └─ main.jsx
 ├─ index.html
