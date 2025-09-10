@@ -26,7 +26,7 @@ A fun, responsive portfolio for **Milo the Cat**! Built with **React**, **Vite**
 ---
 
 ## 📁 Project Structure
-
+```
 my-cat-portfolio/
 ├─ public/
 │ └─ milo.png # Cat profile image
@@ -39,6 +39,7 @@ my-cat-portfolio/
 ├─ package.json
 ├─ tailwind.config.js
 └─ vite.config.js
+```
 
 
 
